@@ -1,0 +1,1547 @@
+/* .......... PAGE 1: HOME .......... */
+
+.background {
+    background-image: url("../images/IMG_7475.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: cursive;
+}
+
+nav {
+    background-color: rgba(73, 74, 73, 0.307);
+    height: 45px;
+    margin-top: 1px;
+}
+
+.icons {
+    width: 25px;
+    height: 25px;
+    padding: 10px 5px;
+}
+
+.icons:hover {
+    width: 35px;
+    height: 35px;
+    padding: 1px 0px;
+}
+
+nav ul {
+    display: inline-block;
+    margin-left: 860px;
+    margin-top: 1px;
+    list-style-type: none;
+    padding-top: 5px;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    padding-left: 25px;
+    font-size: 18px;
+}
+
+main {
+    text-align: center;
+}
+
+#gymLogo {
+    display: inline-block;
+    transition: 500ms;
+    margin-top: 40px;
+}
+
+#gymLogo:hover {
+    width: 150px;
+    height: auto;
+    margin: 10px 5px;
+    transform: translateY(-20px);
+}
+
+#name {
+    font-family: "mighty souly", cursive;
+    font-size: 60px;
+    display: block;
+    background: -webkit-linear-gradient(45deg, black, #333, white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 10px;
+}
+
+#texts {
+    font-family: cursive;
+    color: aliceblue;
+    font-weight: bolder;
+    font-size: 22px;
+    text-shadow: black -2px 2px 3px;
+}
+
+main pre {
+    font-family: cursive;
+}
+
+#open {
+    color: rgb(61, 60, 60);
+    font-size: 24px;
+}
+
+footer {
+    display: flex;
+    background-color: rgba(73, 74, 73, 0.144);
+    margin-top: 100px;
+}
+
+#trail {
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+    margin: 25px 20px;
+}
+
+#FR {
+    color: rgb(61, 60, 60);
+    font-weight: bolder;
+    text-shadow: black -2px 2px 3px;
+    display: inline-block;
+}
+
+#joinNow {
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    margin: 45px 450px;
+    background-color: transparent;
+    color: white;
+    border: rgb(61, 60, 60) solid;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 10px;
+    box-shadow: black -2px 2px 3px;
+}
+
+#joinNow:hover {
+    width: 300px;
+}
+
+#call pre {
+    display: inline-block;
+    font-family: cursive;
+    font-size: 20px;
+    color: white;
+    margin: 25px 15px;
+}
+
+#number {
+    color: rgb(61, 60, 60);
+    font-weight: bolder;
+    text-shadow: black -1px 1px 2px;
+    display: inline-block;
+}
+
+
+/* .......... PAGE 2: FACILITIES .......... */
+
+.background2 {
+    background-image: url("../images/IMG_7476.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: cursive;
+}
+
+h2 {
+    color: antiquewhite;
+    text-align: center;
+    text-shadow: black -2px 2px 3px;
+    margin-top: 28px;
+}
+
+.imgBackg {
+    background-color: #333333be;
+    display: inline-block;
+    width: 460px;
+    height: 370px;
+    margin-top: 30px;
+    margin-left: 28px;
+    border-radius: 5px;
+    box-shadow: black -2px 2px 5px;
+}
+
+.imgBackg:hover {
+    width: 480px;
+    height: 390px;
+    margin: 10px 5px;
+    transform: translateY(-20px);
+}
+
+.imgs {
+    width: 420px;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    display: inline-block;
+}
+
+.imgsdiv {
+    display: flex;
+}
+
+.imgsIcon {
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    padding-left: 20px;
+    margin-top: -3px;
+}
+
+.imgsdiv ul {
+    margin-left: -35px;
+    list-style-type: none;
+    color: aliceblue;
+    text-shadow: black -2px 2px 3px;
+}
+
+.imgli1 {
+    margin-top: -10px;
+    font-weight: bolder;
+}
+
+.imgli2 {
+    font-size: 15px;
+}
+
+#yoga {
+    height: 280px;
+}
+
+#basketball {
+    height: 280px;
+}
+
+
+/* .......... PAGE 3: TRAINERS .......... */
+
+.background3 {
+    background: linear-gradient(to bottom,
+            rgba(0, 0, 0, 0.897),
+            rgba(59, 59, 59, 0.782),
+            rgba(255, 255, 255, 0.026)), url("../images/IMG_7476.JPG");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: cursive;
+}
+
+h3 {
+    font-family: "mighty souly", cursive;
+    font-size: 32px;
+    display: block;
+    background: -webkit-linear-gradient(45deg, black, #333, white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 40px;
+}
+
+#titr {
+    list-style-type: none;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 17px;
+}
+
+#titrLi1 {
+    font-weight: bold;
+}
+
+#titrLi2 {
+    color: rgba(255, 255, 255, 0.504);
+    padding-top: 5px;
+}
+
+.totalBoxes {
+    display: inline-block;
+}
+
+/* Top Boxes */
+
+.littleBoxes {
+    border-radius: 5px;
+    width: 140px;
+    height: 160px;
+    background-color: rgba(255, 255, 255, 0.533);
+    padding-left: 2px;
+    padding-top: 20px;
+    margin: 30px 5px;
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    box-shadow: black -2px 2px 3px;
+}
+
+.littleBoxes ul {
+    display: inline-block;
+}
+
+.littleBoxes img {
+    width: 60px;
+    height: auto;
+    border-radius: 50%;
+}
+
+#flag {
+    width: 35px;
+    height: 20px;
+}
+
+#id {
+    text-decoration: none;
+}
+
+.couchesNames {
+    font-weight: bolder;
+}
+
+#boxing {
+    margin-left: 370px;
+}
+
+/* Bottom Boxes */
+
+.totalBoxes2 {
+    display: inline-block;
+}
+
+.Boxes {
+    border-radius: 5px;
+    width: 475px;
+    height: 400px;
+    padding-left: 2px;
+    padding-top: 20px;
+    margin: 50px 10px;
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+    box-shadow: black -2px 2px 3px;
+}
+
+#flag2 {
+    width: 35px;
+    height: 20px;
+    padding-left: 400px;
+    margin-top: -10px;
+}
+
+.profiles {
+    width: 65px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: -30px;
+    border-radius: 50%;
+    box-shadow: black -2px 2px 3px;
+}
+
+.names {
+    font-weight: bolder;
+    padding-top: 5px;
+}
+
+.Boxes a {
+    text-decoration: none;
+}
+
+.text {
+    text-align: justify;
+    padding: 15px 15px;
+}
+
+.massage {
+    width: 120px;
+    height: 30px;
+    background: transparent;
+    font-family: cursive;
+    box-shadow: black -1px 1px 3px;
+    border: rgba(0, 0, 0, 0.332) solid 1px;
+    border-radius: 5px;
+    margin-top: 8px;
+    font-weight: bold;
+}
+
+#box1 {
+    background: linear-gradient(to right,
+            black, black, rgb(0, 0, 0),
+            rgba(0, 0, 0, 0.881),
+            rgba(41, 41, 41, 0.667),
+            rgba(49, 48, 48, 0.503)), rgba(255, 255, 255, 0.385);
+}
+
+#box2 {
+    background-color: rgba(255, 255, 255, 0.533);
+}
+
+#box3 {
+    background: linear-gradient(to left,
+            black, black, rgb(0, 0, 0),
+            rgba(0, 0, 0, 0.881),
+            rgba(41, 41, 41, 0.667),
+            rgba(49, 48, 48, 0.503)), rgba(255, 255, 255, 0.385);
+}
+
+#blackLink {
+    color: black;
+}
+
+#totalPoints {
+    text-align: center;
+}
+
+#points {
+    display: inline-block;
+}
+
+#points div {
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: -55px;
+}
+
+
+/* .......... PAGE 4: CLASSES .......... */
+
+h4 {
+    font-family: "mighty souly", cursive;
+    font-size: 38px;
+    display: block;
+    background: -webkit-linear-gradient(45deg, black, #333, white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 40px;
+}
+
+header {
+    text-align: center;
+}
+
+.totalClasses {
+    text-align: center;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.classBoxes {
+    background-color: transparent;
+    display: inline-block;
+    width: 130px;
+    height: 40px;
+    text-align: center;
+    box-shadow: white -0.3px 0.3px 1px;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    border: rgba(255, 255, 255, 0.112) solid 1px;
+    box-shadow: black -1px 1px 3px;
+}
+
+.classBoxes img {
+    width: 20px;
+    height: auto;
+    display: inline-block;
+}
+
+.classBoxes p {
+    color: white;
+    font-family: cursive;
+    display: inline-block;
+    font-weight: bold;
+}
+
+/* Title */
+
+#totalTitle {
+    text-align: center;
+    margin-top: 60px;
+}
+
+#progress {
+    font-weight: bold;
+    color: white;
+    font-size: 17px;
+}
+
+#noExcuses {
+    color: rgba(255, 255, 255, 0.504);
+    margin-top: -0.2px;
+    font-size: 17px;
+}
+
+/* Main Boxes */
+
+.mainBoxes {
+    background-color: rgba(255, 255, 255, 0.533);
+    display: flex;
+    width: 250px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 620px;
+    border-radius: 5px;
+    box-shadow: black -2px 2px 3px;
+}
+
+#mainBox1 {
+    margin-top: 70px;
+}
+
+.mainBoxesImg {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    padding-left: 35px;
+    margin-top: 25px;
+}
+
+.mainBoxes ul {
+    margin-left: -66px;
+    margin-top: 25px;
+    list-style-type: none;
+}
+
+.liA {
+    font-weight: bolder;
+    color: black;
+}
+
+.liB {
+    margin-left: 35px;
+    color: rgba(0, 0, 0, 0.56);
+}
+
+.liAF {
+    font-weight: bolder;
+    color: black;
+    margin-left: 19px;
+}
+
+.liAY {
+    font-weight: bolder;
+    color: black;
+    margin-left: -38px;
+}
+
+/* Footer Box */
+
+.bottomBox {
+    width: 495px;
+    height: 70px;
+    background-color: rgba(255, 255, 255, 0.533);
+    border-radius: 5px;
+    box-shadow: black -2px 2px 3px;
+    margin: 60px 500px;
+}
+
+.bottomBox img {
+    width: 40px;
+    height: 40px;
+    padding: 12px 10px;
+}
+
+footer hr {
+    margin-left: 15px;
+}
+
+
+/* .......... PAGE 5: CONTACT .......... */
+
+h5 {
+    font-family: "mighty souly", cursive;
+    font-size: 38px;
+    display: block;
+    background: -webkit-linear-gradient(45deg, black, #020202, white, black);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    margin-top: 40px;
+}
+
+/* Main Box */
+
+#bigBox {
+    width: 450px;
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.533);
+    border-radius: 5px;
+    box-shadow: black -2px 2px 3px;
+    margin: 80px 530px;
+}
+
+#bigBox img {
+    display: inline-block;
+    width: 60px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#totalWork {
+    background-color: transparent;
+    display: flex;
+    width: 180px;
+    height: 35px;
+    box-shadow: white -0.3px 0.3px 1px;
+    border-radius: 25px;
+    border: rgba(255, 255, 255, 0.112) solid 1px;
+    box-shadow: black -1px 1px 3px;
+    margin-left: 75px;
+    margin-top: -50px;
+}
+
+#greenB {
+    background-color: green;
+    border-radius: 50%;
+    width: 7px;
+    height: 7px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+#AFW {
+    padding-left: 10px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#bigBox h {
+    font-weight: bolder;
+    padding-top: 40px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+#bigBox p {
+    color: rgba(4, 4, 4, 0.504);
+    display: inline-block;
+    text-align: justify;
+    margin-left: -5px;
+    padding: 10px 30px;
+}
+
+#JN {
+    margin-left: 150px;
+    margin-bottom: 100px;
+}
+
+#goh {
+    margin-left: 680px;
+}
+
+#goh p {
+    font-weight: bolder;
+    color: white;
+    margin-left: -22px;
+    margin-top: -5px;
+}
+
+#an2 {
+    list-style-type: none;
+}
+
+/* .......... DEBUG FIXES .......... */
+
+/* General */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* PAGE 1: HOME */
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    margin-left: auto;
+    margin-right: 20px;
+    padding-top: 0;
+}
+
+nav ul li {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu {
+    padding-left: 0;
+}
+
+.icons:hover {
+    transform: scale(1.2);
+    width: 25px;
+    height: 25px;
+}
+
+#gymLogo:hover {
+    width: 96px;
+    margin: 40px 0 0;
+}
+
+footer {
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+#joinNow {
+    margin: 45px 0;
+    flex-shrink: 0;
+}
+
+#joinNow:hover {
+    width: 200px;
+}
+
+#trail,
+#call pre {
+    margin: 25px 0;
+}
+
+
+/* PAGE 2: FACILITIES */
+
+.background2 section {
+    text-align: center;
+}
+
+.imgBackg {
+    width: 460px;
+    max-width: calc(100% - 40px);
+    vertical-align: top;
+    text-align: left;
+}
+
+.imgBackg:hover {
+    width: 460px;
+    height: 370px;
+    margin: 30px 0 0 28px;
+    transform: translateY(-10px);
+}
+
+.imgs {
+    width: calc(100% - 40px);
+    height: 280px;
+    object-fit: cover;
+}
+
+.imgsdiv {
+    align-items: center;
+}
+
+.imgsdiv ul {
+    margin-left: 0;
+}
+
+#yoga,
+#basketball {
+    height: 280px;
+}
+
+
+/* PAGE 3: TRAINERS */
+
+.totalBoxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+}
+
+.littleBoxes {
+    margin: 30px 0;
+    padding-left: 2px;
+}
+
+#boxing {
+    margin-left: 0;
+}
+
+.totalBoxes2 {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+}
+
+.Boxes {
+    width: 475px;
+    max-width: calc(100% - 30px);
+    height: auto;
+    min-height: 400px;
+    margin: 30px 0;
+    padding-left: 2px;
+}
+
+#flag2 {
+    display: block;
+    padding-left: 0;
+    margin: 0 15px 0 auto;
+}
+
+.profiles {
+    margin-top: 0;
+}
+
+.text {
+    line-height: 1.5;
+}
+
+#totalPoints {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+}
+
+#points {
+    display: inline-block;
+}
+
+#points div {
+    margin-top: 0;
+}
+
+
+/* PAGE 4: CLASSES */
+
+.totalClasses {
+    margin: 0 4px;
+}
+
+.classBoxes {
+    margin-top: 10px;
+}
+
+.mainBoxes {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottomBox {
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+    min-height: 70px;
+    padding: 5px;
+}
+
+.bottomBox img {
+    flex-shrink: 0;
+}
+
+footer hr {
+    display: none;
+}
+
+
+/* PAGE 5: CONTACT */
+
+#bigBox {
+    margin: 80px auto;
+    max-width: calc(100% - 30px);
+}
+
+#bigBox p {
+    line-height: 1.5;
+}
+
+#goh {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#goh p {
+    margin-left: 0;
+}
+
+/* RESPONSIVE FIXES */
+
+@media screen and (max-width: 768px) {
+
+    nav {
+        height: auto;
+        min-height: 45px;
+        flex-wrap: wrap;
+    }
+
+    nav ul {
+        margin: 5px auto;
+    }
+
+    nav ul li {
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .menu {
+        font-size: 14px;
+    }
+
+    footer {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 50px;
+    }
+
+    #joinNow {
+        margin: 15px;
+    }
+
+    .imgBackg {
+        margin: 20px auto;
+    }
+
+    .imgBackg:hover {
+        margin: 20px auto;
+    }
+
+    .Boxes {
+        max-width: calc(100% - 30px);
+    }
+
+    .littleBoxes {
+        margin: 15px 5px;
+    }
+
+    .mainBoxes {
+        max-width: calc(100% - 30px);
+    }
+
+    .bottomBox {
+        max-width: calc(100% - 30px);
+    }
+
+    #bigBox {
+        margin: 50px auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    #name {
+        font-size: 40px;
+    }
+
+    #texts {
+        font-size: 17px;
+    }
+
+    #open {
+        font-size: 20px;
+    }
+
+    #trail,
+    #call pre {
+        font-size: 16px;
+    }
+
+    .imgBackg {
+        height: auto;
+        padding-bottom: 10px;
+    }
+
+    .imgs {
+        height: 200px;
+    }
+
+    #yoga,
+    #basketball {
+        height: 200px;
+    }
+
+    .classBoxes {
+        width: 115px;
+    }
+
+    .mainBoxes {
+        width: 250px;
+    }
+
+    #bigBox {
+        height: auto;
+        min-height: 300px;
+    }
+
+    #bigBox p {
+        padding: 10px 15px;
+    }
+
+    .Boxes {
+        padding-right: 2px;
+    }
+}
+
+/* FIX: HOME PAGE SOCIAL ICONS */
+
+nav {
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+nav>.icons {
+    flex-shrink: 0;
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    object-fit: contain;
+}
+
+nav>.icons:hover {
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    transform: scale(1.15);
+}
+
+nav ul {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+
+/* FIX: CLASSES PAGE TOP ICONS AND TEXT */
+
+.totalClasses {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 4px;
+}
+
+.classBoxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    width: 130px;
+    height: 45px;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.classBoxes img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    display: block;
+}
+
+.classBoxes p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1;
+    white-space: nowrap;
+    display: block;
+}
+
+header {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .totalClasses {
+        margin: 0 2px;
+    }
+
+    .classBoxes {
+        width: 120px;
+    }
+
+    .classBoxes p {
+        font-size: 13px;
+    }
+}
+
+/* .......... DEBUG FIXES .......... */
+
+/* General */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* PAGE 1: HOME */
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    margin-left: auto;
+    margin-right: 20px;
+    padding-top: 0;
+}
+
+nav ul li {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.menu {
+    padding-left: 0;
+}
+
+.icons:hover {
+    transform: scale(1.2);
+    width: 25px;
+    height: 25px;
+}
+
+#gymLogo:hover {
+    width: 96px;
+    margin: 40px 0 0;
+}
+
+footer {
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+#joinNow {
+    margin: 45px 0;
+    flex-shrink: 0;
+}
+
+#joinNow:hover {
+    width: 200px;
+}
+
+#trail,
+#call pre {
+    margin: 25px 0;
+}
+
+
+/* PAGE 2: FACILITIES */
+
+.background2 section {
+    text-align: center;
+}
+
+.imgBackg {
+    width: 460px;
+    max-width: calc(100% - 40px);
+    vertical-align: top;
+    text-align: left;
+}
+
+.imgBackg:hover {
+    width: 460px;
+    height: 370px;
+    margin: 30px 0 0 28px;
+    transform: translateY(-10px);
+}
+
+.imgs {
+    width: calc(100% - 40px);
+    height: 280px;
+    object-fit: cover;
+}
+
+.imgsdiv {
+    align-items: center;
+}
+
+.imgsdiv ul {
+    margin-left: 0;
+}
+
+#yoga,
+#basketball {
+    height: 280px;
+}
+
+
+/* PAGE 3: TRAINERS */
+
+.totalBoxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    width: 100%;
+}
+
+.littleBoxes {
+    margin: 30px 0;
+    padding-left: 2px;
+}
+
+#boxing {
+    margin-left: 0;
+}
+
+.totalBoxes2 {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 20px;
+}
+
+.Boxes {
+    width: 475px;
+    max-width: calc(100% - 30px);
+    height: auto;
+    min-height: 400px;
+    margin: 30px 0;
+    padding-left: 2px;
+}
+
+#flag2 {
+    display: block;
+    padding-left: 0;
+    margin: 0 15px 0 auto;
+}
+
+.profiles {
+    margin-top: 0;
+}
+
+.text {
+    line-height: 1.5;
+}
+
+#totalPoints {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0;
+}
+
+#points {
+    display: inline-block;
+}
+
+#points div {
+    margin-top: 0;
+}
+
+
+/* PAGE 4: CLASSES */
+
+.totalClasses {
+    margin: 0 4px;
+}
+
+.classBoxes {
+    margin-top: 10px;
+}
+
+.mainBoxes {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bottomBox {
+    margin: 60px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+    min-height: 70px;
+    padding: 5px;
+}
+
+.bottomBox img {
+    flex-shrink: 0;
+}
+
+footer hr {
+    display: none;
+}
+
+
+/* PAGE 5: CONTACT */
+
+#bigBox {
+    margin: 80px auto;
+    max-width: calc(100% - 30px);
+}
+
+#bigBox p {
+    line-height: 1.5;
+}
+
+#goh {
+    width: fit-content;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#goh p {
+    margin-left: 0;
+}
+
+
+/* RESPONSIVE FIXES */
+
+@media screen and (max-width: 768px) {
+
+    nav {
+        height: auto;
+        min-height: 45px;
+        flex-wrap: wrap;
+    }
+
+    nav ul {
+        margin: 5px auto;
+    }
+
+    nav ul li {
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .menu {
+        font-size: 14px;
+    }
+
+    footer {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 50px;
+    }
+
+    #joinNow {
+        margin: 15px;
+    }
+
+    .imgBackg {
+        margin: 20px auto;
+    }
+
+    .imgBackg:hover {
+        margin: 20px auto;
+    }
+
+    .Boxes {
+        max-width: calc(100% - 30px);
+    }
+
+    .littleBoxes {
+        margin: 15px 5px;
+    }
+
+    .mainBoxes {
+        max-width: calc(100% - 30px);
+    }
+
+    .bottomBox {
+        max-width: calc(100% - 30px);
+    }
+
+    #bigBox {
+        margin: 50px auto;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    #name {
+        font-size: 40px;
+    }
+
+    #texts {
+        font-size: 17px;
+    }
+
+    #open {
+        font-size: 20px;
+    }
+
+    #trail,
+    #call pre {
+        font-size: 16px;
+    }
+
+    .imgBackg {
+        height: auto;
+        padding-bottom: 10px;
+    }
+
+    .imgs {
+        height: 200px;
+    }
+
+    #yoga,
+    #basketball {
+        height: 200px;
+    }
+
+    .classBoxes {
+        width: 115px;
+    }
+
+    .mainBoxes {
+        width: 250px;
+    }
+
+    #bigBox {
+        height: auto;
+        min-height: 300px;
+    }
+
+    #bigBox p {
+        padding: 10px 15px;
+    }
+
+    .Boxes {
+        padding-right: 2px;
+    }
+}
+
+/* FIX: HOME PAGE SOCIAL ICONS */
+
+nav {
+    justify-content: flex-start;
+    gap: 8px;
+}
+
+nav>.icons {
+    flex-shrink: 0;
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    object-fit: contain;
+}
+
+nav>.icons:hover {
+    width: 25px;
+    height: 25px;
+    padding: 0;
+    transform: scale(1.15);
+}
+
+nav ul {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+
+/* FIX: CLASSES PAGE TOP ICONS AND TEXT */
+
+.totalClasses {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 4px;
+}
+
+.classBoxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    width: 130px;
+    height: 45px;
+    padding: 0;
+    margin-top: 10px;
+}
+
+.classBoxes img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    display: block;
+}
+
+.classBoxes p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    line-height: 1;
+    white-space: nowrap;
+    display: block;
+}
+
+header {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .totalClasses {
+        margin: 0 2px;
+    }
+
+    .classBoxes {
+        width: 120px;
+    }
+
+    .classBoxes p {
+        font-size: 13px;
+    }
+}
+
+/* FIX: CLASSES PAGE ICONS */
+
+.bottomBox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 495px;
+    max-width: 100%;
+    height: 70px;
+    padding: 5px;
+    margin: 60px auto;
+    gap: 10px;
+}
+
+.bottomBox img {
+    display: block;
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    max-width: 40px;
+    padding: 0;
+    margin: 0;
+    object-fit: contain;
+    flex: 0 0 40px;
+}
